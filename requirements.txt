@@ -1,0 +1,9 @@
+flet
+opencv-python
+datetime
+pytesseract
+Pillow
+numpy
+os
+requests
+shuttil
